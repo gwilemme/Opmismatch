@@ -28,7 +28,7 @@ The Julia code runs with Julia 1.0.5 on Linux. It uses the NBInclude package to 
 
 ### Routines and module Opmismatch
 All The routines are in the `code/julia/src` folder.
-First the file `Opmismatch.ipynb` generates a Julia module, calling all the other source codes of the folder.
+The file `Opmismatch.ipynb` generates a Julia module, calling all the other source codes of the folder.
 
 
 `structure.ipynb` defines particular types for the allocation object or the tax object.
