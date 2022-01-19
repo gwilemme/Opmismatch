@@ -9,7 +9,7 @@ The model is calibrated and simulated with Julia, using moments built with Stata
 The raw data are the Basic Monthly CPS public files from January 2017 to December 2018.
 
 The data are downloaded in the `data/raw` folder, going from `jan17pub.dat` to `dec18pub.dat`.
-The dictionnary file used is `cpsbjan2015.dct` and is downloaded in the `code/stata` folder.
+I use the dictionnary file `cpsbjan2015.dct` provided by the NBER. It is downloaded in the `code/stata` folder.
 
 In the `code/stata` folder, the file `raw2ready.do` sequentially opens the .dat tables, select the key variables and save the new tables in the folder `data/ready` with the names `cpsjan17.dta` to `cpsdec18.dta`.
 
