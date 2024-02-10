@@ -1,5 +1,5 @@
 # Optimal Taxation to Correct Job Mismatching
-Data and computer code associated to the article `Optimal Taxation to Correct Job Mismatching', by [Guillaume Wilemme](http://www.gwilemme.com/) (Univ. of Leicester).
+Data and computer code associated to the article `Optimal Taxation to Correct Job Mismatching', by [Guillaume Wilemme](http://www.gwilemme.github.io/) (Univ. of Leicester).
 
 
 The model is calibrated and simulated with Julia, using moments built with Stata from the Current Population Survey. 
